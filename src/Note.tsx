@@ -45,7 +45,9 @@ export function Note({onDelete}: NoteProps){
                  </Stack>
             </Col>
         </Row>
-        <ReactMarkdown>{note.markdown}</ReactMarkdown>
+        <div className="markdown-content"> 
+            <ReactMarkdown>{note.markdown}</ReactMarkdown>
+        </div>
     </>
    )
 }

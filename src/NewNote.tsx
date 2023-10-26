@@ -6,7 +6,7 @@ type NewNoteProps = {
     onAddTag: (tag: Tag) => void
     availableTags: Tag[]
 }
-
+// Creates new note and tags
 export function NewNote({onSubmit, onAddTag, availableTags}: NewNoteProps){
     return (
         <>
