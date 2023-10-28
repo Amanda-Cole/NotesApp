@@ -8,7 +8,7 @@ I chose this project to practice using typescript and to understand how it can b
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Amanda's Note App Demo](https://youtu.be/Aj0-v2U3SQc)
 
 # Development Environment
 
